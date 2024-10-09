@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "spotifyAPI",
     "name": "spotifyAPI",
     "slug": "spotifyAPI",
     "version": "1.0.0",
@@ -18,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.spotify"
     },
     "web": {
       "favicon": "./assets/favicon.png"
